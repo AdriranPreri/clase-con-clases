@@ -67,9 +67,9 @@ function testClaseEdificio() {
     throw "testClaseBandaApartment not passed";
   }
 }
-
+        
 function main() {
   testClaseEdificio();
-  console.log("otro cambio");
+  console.log("vino otra persona y le metio este cambio");
 }
 main();
